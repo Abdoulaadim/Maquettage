@@ -1,6 +1,6 @@
 # Brief01
 
-##Contexte du projet
+## Contexte du projet
 
 Une chaîne de restaurants souhaite modifier son site web pour renforcer sa présence web au delà des réseau sociaux. La chaîne de restaurants propose que vous réalisez le maquettage des pages supplémentaires pour son site web pour la pages de contact avec localisation pour chaque franchise, et la page menu. Et remanier la page accueil en ajoutant un contenu adapté au besoin du restaurant.
 
@@ -22,7 +22,7 @@ Le travail sur le maquettage et le mockup du siteweb va se faire en groupe de 3 
 
 N.B : Le soin de l'interface utilisateur et l'éxpérience utilisateur est important.
 
-##Modalités pédagogiques
+## Modalités pédagogiques
 
 Temporalité :
 7 jours
@@ -30,6 +30,6 @@ Temporalité :
 Modalité de travail :
 Travail par groupe de 3 personnes
 
-##Livrables
+## Livrables
 
 Lien Github du repo contenant le fichier du design final une présentation ppt de la maquette et du mockup
